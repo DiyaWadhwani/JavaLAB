@@ -74,7 +74,7 @@ public class MainFrame implements ActionListener
 		coursenamef = new JTextArea();
 		semesterl = new JLabel("Semester");
 		semesterf = new JTextArea();
-		typel = new JLabel("Sem Type");
+		typel = new JLabel("Course Type");
 		type_choice = new JComboBox<String>(type);
 		credsl = new JLabel("Credits");
 		credsf = new JTextField(2);
