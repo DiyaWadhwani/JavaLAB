@@ -8,7 +8,7 @@ public class MainFrame implements ActionListener
 {
 	JFrame main;
 	JLabel branchl,seml;
-	String[] branches = {"Information Science and Engineering","Computer Science and Engineering","Industrial Engineering and Management","Electronics and Communication Engineering"};
+	String[] branches = {"Information Science and Engineering","Computer Science and Engineering"};
 	String[] sems = {"Semester 1","Semester 2","Semester 3","Semester 4","Semester 5","Semester 6","Semester 7","Semester 8"};
 	final JComboBox<String> branch_choice,sem_choice;
 	JButton next1;
